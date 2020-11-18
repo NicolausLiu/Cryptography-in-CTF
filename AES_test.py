@@ -27,7 +27,7 @@ class aes_scheme():
         return text_decrypted
 
 
-
+#实例
 key = input("密钥： ")
 text = input("消息: ")
 
